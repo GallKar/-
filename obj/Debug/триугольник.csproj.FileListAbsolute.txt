@@ -1,0 +1,15 @@
+C:\Users\зс\source\repos\триугольник\obj\Debug\триугольник.csproj.AssemblyReference.cache
+C:\Users\зс\source\repos\триугольник\obj\Debug\MainWindow.g.cs
+C:\Users\зс\source\repos\триугольник\obj\Debug\App.g.cs
+C:\Users\зс\source\repos\триугольник\obj\Debug\триугольник_MarkupCompile.cache
+C:\Users\зс\source\repos\триугольник\obj\Debug\триугольник_MarkupCompile.lref
+C:\Users\зс\source\repos\триугольник\bin\Debug\триугольник.exe.config
+C:\Users\зс\source\repos\триугольник\bin\Debug\триугольник.exe
+C:\Users\зс\source\repos\триугольник\bin\Debug\триугольник.pdb
+C:\Users\зс\source\repos\триугольник\obj\Debug\MainWindow.baml
+C:\Users\зс\source\repos\триугольник\obj\Debug\триугольник.g.resources
+C:\Users\зс\source\repos\триугольник\obj\Debug\триугольник.Properties.Resources.resources
+C:\Users\зс\source\repos\триугольник\obj\Debug\триугольник.csproj.GenerateResource.cache
+C:\Users\зс\source\repos\триугольник\obj\Debug\триугольник.csproj.CoreCompileInputs.cache
+C:\Users\зс\source\repos\триугольник\obj\Debug\триугольник.exe
+C:\Users\зс\source\repos\триугольник\obj\Debug\триугольник.pdb
